@@ -1,0 +1,12 @@
+# Backend build artifacts
+/backend/target/
+/backend/.idea/
+
+# Frontend build artifacts and dependencies
+/frontend/node_modules/
+/frontend/dist/
+
+# IDE and OS files
+.idea/
+.DS_Store
+*.log
